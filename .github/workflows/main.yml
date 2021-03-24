@@ -1,0 +1,1 @@
+/opt/hostedtoolcache/CodeQL/0.0.0-20210308/x64/codeql/codeql database analyze --ram=5930 --threads=2 /home/runner/work/_temp/codeql_databases/cpp --min-disk-free=1024 --format=sarif-latest --sarif-multicause-markdown --output=../results/cpp-builtin.sarif --no-sarif-add-snippets /home/runner/work/_temp/codeql_databases/cpp-queries-builtin.qls
